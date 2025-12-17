@@ -2,8 +2,8 @@ import time
 from binance.client import Client
 
 # Set up your binance API credentials
-api_key = 'In3ZMfHGcgaa2nmFxDvNboeZZ3AvP37lAaZzqoiMQXwmPLe0JsHx9qoyaOtwcuYt'
-api_secret = 'jyTQI65PWyOGZgMsLd8LBgXWgpz0IsscqjVGMEdMWI9CiZILDC5b8JqmdcMs2sOk'
+api_key = ''
+api_secret = ''
 client = Client(api_key, api_secret)
 
 # Define your trading parameters
